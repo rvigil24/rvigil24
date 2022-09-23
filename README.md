@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvigil24&label=Profile%20views&color=0e75b6&style=flat" alt="rvigil24" /> </p>
 
-My Projects:
+<h3 align="left">My favorite projects:</h3>
 
 - My live code editor project 👨‍💻 [Live-Coding](https://github.com/rvigil24/live-coding-express)
 
