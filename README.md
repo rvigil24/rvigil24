@@ -11,6 +11,8 @@
 
 - React Movies Project 🎬 [react-movies-app](https://github.com/rvigil24/react-movies-app)
 
+<h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning **Next, Azure, Redis**
 
 - 💬 Ask me about **node, express, nest, react, mongodb**
