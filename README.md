@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Vigil</h1>
-<h3 align="center">A passionate fullstack developer from El Salvador</h3>
+<h3 align="center">Backend Developer | Javascript | Node.JS | MERN | 3+ years experience | I Am Always Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvigil24&label=Profile%20views&color=0e75b6&style=flat" alt="rvigil24" /> </p>
 
