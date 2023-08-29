@@ -7,9 +7,13 @@
 
 - My live code editor project 👨‍💻 [Live-Coding](https://github.com/rvigil24/live-coding-express)
 
-- My Pizza Project 🍕 [pizza-react-firebase](https://github.com/rvigil24/pizza-react-firebase)
+- My Pizza project 🍕 [pizza-react-firebase](https://github.com/rvigil24/pizza-react-firebase)
 
-- React Movies Project 🎬 [react-movies-app](https://github.com/rvigil24/react-movies-app)
+- React Movies project 🎬 [react-movies-app](https://github.com/rvigil24/react-movies-app)
+
+- Blog powered by Next 💬 [next-js-blog](https://github.com/rvigil24/my-dev-space-blog)
+
+- React Grid Gallery [react-grid-gallery](https://github.com/rvigil24/react-grid-gallery)
 
 <h3 align="left">About me:</h3>
 
